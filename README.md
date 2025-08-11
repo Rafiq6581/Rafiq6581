@@ -1,7 +1,7 @@
 <!-- Title & Intro -->
 ## Hello! 🙋🏻‍♂️  
 I'm **Rafiq**, originally from Singapore 🇸🇬 and now based in Japan 🇯🇵.  
-By day ☀️ I lead QA engineering for AI-driven systems, and by night 🌙 I dive deep into **MLOps** and **AI engineering** — designing and deploying practical GenAI solutions.  
+I lead QA engineering for AI-driven systems By day ☀️, and I dive deep into **MLOps** and **AI engineering** — designing and deploying practical GenAI solutions by night 🌙.  
 I bring **hands-on experience** in building data and model pipelines, integrating RAG architectures, and orchestrating deployments on cloud infrastructure with production-grade workflows.
 
 ---

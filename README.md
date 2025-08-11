@@ -36,6 +36,7 @@ I bring **hands-on experience** in building data and model pipelines, integratin
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes)
+![Poetry](https://img.shields.io/badge/-Poetry-black?style=for-the-badge&logo=poetry&logoColor=60A5FA)
 
 ## My socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafiq-rifhan/)
